@@ -3,12 +3,12 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Code Snippets to Copy](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
+1. ⚙️ [Tech Stack](#tech-stack)
+2. 🔋 [Features](#features)
+3. 🤸 [Quick Start](#quick-start)
+4. 🕸️ [Code Snippets to Copy](#snippets)
+5. 🔗 [Assets](#links)
+6. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -63,7 +63,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/pestoura/BankingPlatform.git
-cd banking
+cd BankingPlatform
 ```
 
 **Installation**
